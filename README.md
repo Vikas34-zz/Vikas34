@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vikas34
 - 👀 I’m interested in Azure, Blockchain and other technologies
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin. Golang
 - 💞️ I’m looking to collaborate on Permissioned Blockchains
-- 📫 How to reach me on slack or through email
+- 📫 How to reach me on slack or through email (vikas.khinchi@cariad.technology)
 
 <!---
 Vikas34/Vikas34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
